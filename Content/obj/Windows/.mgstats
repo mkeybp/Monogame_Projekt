@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/mikey/source/repos/Monogame_Projekt/Monogame_Projekt/Content/enemy_dwd.png","C:/Users/mikey/source/repos/Monogame_Projekt/Monogame_Projekt/Content/bin/Windows/enemy_dwd.xnb","TextureProcessor","Texture2DContent",3095,31333,0.5811238
+"C:/Users/mikey/source/repos/Monogame_Projekt/Monogame_Projekt/Content/player_fwd.png","C:/Users/mikey/source/repos/Monogame_Projekt/Monogame_Projekt/Content/bin/Windows/player_fwd.xnb","TextureProcessor","Texture2DContent",8257,67285,0.0149919
