@@ -26,6 +26,5 @@ namespace Monogame_Projekt
         public abstract void Update(GameTime gameTime);
 
 
-
     }
 }

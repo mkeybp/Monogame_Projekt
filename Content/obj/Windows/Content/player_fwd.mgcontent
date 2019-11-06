@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>C:/Users/mikey/source/repos/Monogame_Projekt/Monogame_Projekt/Content/player_fwd.png</SourceFile>
-  <SourceTime>2014-10-21T10:13:31+02:00</SourceTime>
-  <DestFile>C:/Users/mikey/source/repos/Monogame_Projekt/Monogame_Projekt/Content/bin/Windows/Content/player_fwd.xnb</DestFile>
-  <DestTime>2019-11-05T16:33:14.1401516+01:00</DestTime>
+  <SourceFile>C:/Users/andre/Source/Repos/mkeybp/Monogame_Projekt/Content/player_fwd.png</SourceFile>
+  <SourceTime>2019-11-06T10:28:10.8882411+01:00</SourceTime>
+  <DestFile>C:/Users/andre/Source/Repos/mkeybp/Monogame_Projekt/Content/bin/Windows/Content/player_fwd.xnb</DestFile>
+  <DestTime>2019-11-06T11:26:09.874314+01:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2018-12-08T17:35:54+01:00</ImporterTime>
   <Processor>TextureProcessor</Processor>
