@@ -23,3 +23,6 @@ C:\Users\mikey\source\repos\Monogame_Projekt\Monogame_Projekt\obj\x86\Debug\Mono
 C:\Users\mikey\source\repos\Monogame_Projekt\Monogame_Projekt\obj\x86\Debug\Monogame_Projekt.pdb
 C:\Users\mikey\source\repos\Monogame_Projekt\Monogame_Projekt\bin\Windows\x86\Debug\Content\enemy_dwd.xnb
 C:\Users\mikey\source\repos\Monogame_Projekt\Monogame_Projekt\bin\Windows\x86\Debug\Content\player_fwd.xnb
+C:\Users\Lyhne\Source\Repos\Monogame_Projekt\obj\x86\Debug\Monogame_Projekt.csprojAssemblyReference.cache
+C:\Users\Lyhne\Source\Repos\Monogame_Projekt\obj\x86\Debug\Monogame_Projekt.exe
+C:\Users\Lyhne\Source\Repos\Monogame_Projekt\obj\x86\Debug\Monogame_Projekt.pdb

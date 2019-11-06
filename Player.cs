@@ -29,7 +29,6 @@ namespace Monogame_Projekt
         public override void LoadContent(ContentManager content)
         {
             sprites = new Texture2D[4];
-
         }
         /// <summary>
         /// Tjekker for inputs hver frame.
@@ -107,7 +106,7 @@ namespace Monogame_Projekt
         /// <summary>
         /// Lader dig gå ud fra siden af mappet og komme ind på den anden side.
         /// </summary>
-        /*private void ScreenWarp()
+        private void ScreenWarp()
         {
             if (position.X > GameWorld.ScreenSize.X + sprite.Width)
             {
@@ -125,6 +124,6 @@ namespace Monogame_Projekt
             {
                 position.Y = GameWorld.ScreenSize.Y + sprite.Height;
             }
-        }*/
+        }
     }
 }

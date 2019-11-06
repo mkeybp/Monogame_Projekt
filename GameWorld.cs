@@ -20,19 +20,14 @@ namespace Monogame_Projekt
 
         public static Vector2 screenSize;
 
-        
-
-
-
-
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
+
 
         public GameWorld()
         {
             graphics = new GraphicsDeviceManager(this);
             Content.RootDirectory = "Content";
-
         }
 
         /// <summary>
@@ -49,6 +44,8 @@ namespace Monogame_Projekt
             graphics.ApplyChanges();
             Window.Title = "MonogameProject";
 
+            gameObjects.Add(new Player());
+
             base.Initialize();
         }
 
@@ -61,7 +58,10 @@ namespace Monogame_Projekt
             // Create a new SpriteBatch, which can be used to draw textures.
             spriteBatch = new SpriteBatch(GraphicsDevice);
 
-            maleSprite = Content.Load<Texture2D>("player_fwd");
+            foreach(GameObject gameObject in gameObjects)
+            {
+                gameObject.LoadContent(content);
+            }
 
             // TODO: use this.Content to load your game content here
         }
